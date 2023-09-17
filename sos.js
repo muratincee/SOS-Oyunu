@@ -1,9 +1,3 @@
-// 9 tane buton dizmelisiniz 3x3 şeklinde olmalı
-// - Basit dinamik kodlar olması yerine karışık koşullar yazsanız da problem değil. Amaç sonuca ulaşmak.
-// - Oyunda sıra sistemi olmalı. 1 oyuncu X diğer oyuncu O yapmalı
-// - Oyun 2 kişi oynuyormuş gibi kurgulanmalı
-// - Eğer yapabilirseniz bilgisayara karşı da yapabilirsiniz fakat en sona bırakın
-
 const sirag = document.querySelector('#sirag');
 const btnAll = document.querySelectorAll('.btnGm');
 
